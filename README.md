@@ -41,3 +41,5 @@ Router3: LAN → 192.168.3.0/24
 Link to Router2 → 10.0.0.4/30
 
 Goal: To practice static routing and IP address planning between multiple routers.
+
+![Network Topology](Static-Routing-topology.png)
